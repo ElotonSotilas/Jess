@@ -14,6 +14,22 @@ and can be applied in the future, when I have more time.
 
 Providing a working demo only on moving and capturing pieces, as well as the UI.
 
+# Libraries used
+
+- Jexer : user interface
+- JavaTuples : for Pair class
+
+# How to install and run
+
+The project uses Maven, so you can simply use
+```bash
+mvn compile -f pom.xml
+```
+and then run this to start the app
+```bash
+java target/classes/dev/elotonsotilas/ChessApp
+```
+
 # Events (TODO)
 
 ## Interfaces
@@ -74,4 +90,9 @@ Not yet implemented; just close the game.
 - Input box event handling 
   (work in progress, will try to make it work for the demo, so I can move pieces)
 - Notification bar
-  (that is coming as soon as I submit this, I will just update the source)
+  (that is coming as soon as possible)
+
+# Final thoughts
+
+Developing this project has been fun,
+although I could not finish it in due time, but I would love to continue making it in the future.
