@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.elotonsotilas"},{"l":"dev.elotonsotilas.events"},{"l":"dev.elotonsotilas.exceptions"},{"l":"dev.elotonsotilas.figurines"},{"l":"dev.elotonsotilas.models"}];updateSearchResults();
